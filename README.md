@@ -4,3 +4,5 @@
 1.[lab 01](https://github.com/venkateshnaramula/AI-ML_Batch_5-4/blob/main/Untitled3.ipynb)
 
 4.[lab4](https://github.com/venkateshnaramula/AI-ML_Batch_5-4/blob/main/Lab05_AIML.ipynb)
+
+https://github.com/venkateshnaramula/AI-ML_Batch_5-4/blob/main/Lab05_AIML.ipynb
